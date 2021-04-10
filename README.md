@@ -1,1 +1,1 @@
-# Informatyka - matura rozszerzona íº€
+# Informatyka - matura rozszerzona ðŸš€
