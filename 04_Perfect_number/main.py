@@ -18,4 +18,5 @@ def czy_doskonala(n):
         return False
 
 
-print(czy_doskonala(8128))
+print(czy_doskonala(321))
+

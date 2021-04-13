@@ -1,5 +1,5 @@
 def findBest(reszta):
-    monety = [1, 2, 5]
+    monety = [1, 2]
     liczba_monet_do_wydania = 0
 
     while reszta:
@@ -13,3 +13,4 @@ def findBest(reszta):
 
 
 print(findBest(8))
+

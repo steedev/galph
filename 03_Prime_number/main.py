@@ -6,3 +6,4 @@ def prime_num(n):
 
 
 print(prime_num(11))
+
