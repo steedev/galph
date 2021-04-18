@@ -25,7 +25,7 @@ def searchMinMax(B, min, max, l, p):
     return min, max
 
 
-A = [4, 3, 7, 4, 8, 9, 10, 32, 43]
+A = [4, 3, 7, 41, 8, 44, 10, 32, 43, -3]
 min = A[0]
 max = A[0]
 
