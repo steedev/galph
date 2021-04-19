@@ -8,3 +8,4 @@ def euklides_iter(a, b):
 
 
 print(euklides_iter(24, 18))
+

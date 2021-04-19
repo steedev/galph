@@ -5,3 +5,4 @@ def euklides_rekur(a, b):
 
 
 print(euklides_rekur(24, 18))
+
