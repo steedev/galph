@@ -1,0 +1,1 @@
+Sprawdzamy liczbę za granicą z każdą poza nią i ustawiamy na nią minimum lub maximum
