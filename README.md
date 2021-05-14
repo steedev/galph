@@ -3,7 +3,7 @@
 ### Table of Contents 💡
 1. `[2 - 10]` - integer
 2. `[11 - 16]` - sorting
-3. `[17 - 18]` - numeral
+3. `[17 - 18]` - numeric
 
 
 ### Issues ❌
