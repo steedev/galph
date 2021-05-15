@@ -5,6 +5,7 @@
 2. `[11 - 16]` - sorting
 3. `[17 - 18]` - numeric
 4. `[19 - 22]` - text
+5. `[23 - 25]` - encryption
 
 
 ### Issues ❌
