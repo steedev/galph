@@ -4,6 +4,7 @@
 1. `[2 - 10]` - integer
 2. `[11 - 16]` - sorting
 3. `[17 - 18]` - numeric
+4. `[19 - 22]` - text
 
 
 ### Issues ❌
