@@ -7,6 +7,24 @@
 4. `[19 - 22]` - text
 5. `[23 - 25]` - encryption
 
+<br>
+
+### Excel 📗
+1. $ `[=D2*$N$2]` - adresowanie bezwzględne
+2. **Filtrowanie** - pozwala na chowanie elementów, które nam nie odpowiadają
+3. `=LICZ.JEŻELI(E$2:E$515;"=2")` - pionowe zablokowanie (adresowanie bezwzględne)
+4. **Tabele przestawne** pomocne przy obliczaniu średniej wyników dla poszczególnych wartości np. imion
+
+<br>
+
+### Databases 📙
+1. **Pesel oraz Piny** lepiej trzymać jako tekst
+
+<br>
+
+### Access 📕
+
+<br>
 
 ### Issues ❌
 1. Grafy `half-graf` w 11 i 12 źle obrazują sortowanie, ponieważ w tablicy stale zmieniają się wszystkie wartości
