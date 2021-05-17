@@ -59,6 +59,22 @@
 
 <br>
 
+![image](https://user-images.githubusercontent.com/71899777/118509053-a41e7880-b727-11eb-88e6-01fbb6f519cd.png)
+
+<br>
+
+5. Kwerenda krzyżowa
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118512123-7129b400-b72a-11eb-9180-a7c63a5b29ba.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118512188-7dae0c80-b72a-11eb-8e72-04daa84399db.png)
+
+<br>
+
 
 
 <br>
