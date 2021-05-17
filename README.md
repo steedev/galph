@@ -23,6 +23,9 @@
 <br>
 
 ### Access 📕
+1. Zmiana rodzaju daty przy imporcie!
+![image](https://user-images.githubusercontent.com/71899777/118493536-22bfe980-b719-11eb-9ddc-e9619594cc89.png)
+
 
 <br>
 
