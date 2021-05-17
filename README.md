@@ -24,7 +24,19 @@
 
 ### Access 📕
 1. Zmiana rodzaju daty przy imporcie!
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/71899777/118493536-22bfe980-b719-11eb-9ddc-e9619594cc89.png)
+
+<br>
+
+2. Tworzymy relacji między tabelami
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118496128-be525980-b71b-11eb-80dc-21a824619aed.png)
+
 
 
 <br>
