@@ -47,6 +47,18 @@
 
 <br>
 
+4. Grupowanie danych
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118505584-7421a600-b724-11eb-8339-5fbfcba5902b.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118505658-87347600-b724-11eb-8c20-30842343ed70.png)
+
+<br>
+
 
 
 <br>
