@@ -37,6 +37,16 @@
 
 ![image](https://user-images.githubusercontent.com/71899777/118496128-be525980-b71b-11eb-80dc-21a824619aed.png)
 
+<br>
+
+3. Tworzenie kwerend
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118498939-6832e580-b71e-11eb-905e-c77b3296a50b.png)
+
+<br>
+
 
 
 <br>
