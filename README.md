@@ -75,7 +75,15 @@
 
 <br>
 
+6. Wyszukiwanie niepasujących danych
 
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118514254-53f5e500-b72c-11eb-904c-b0c22af3e1c0.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/71899777/118514378-6b34d280-b72c-11eb-9ad6-248a82e833b7.png)
 
 <br>
 
